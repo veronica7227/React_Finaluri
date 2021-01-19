@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React_Finaluri/static/css/main.d7b81cd7.chunk.css",
+    "main.js": "/React_Finaluri/static/js/main.e61091c4.chunk.js",
+    "main.js.map": "/React_Finaluri/static/js/main.e61091c4.chunk.js.map",
+    "runtime-main.js": "/React_Finaluri/static/js/runtime-main.d74809d9.js",
+    "runtime-main.js.map": "/React_Finaluri/static/js/runtime-main.d74809d9.js.map",
+    "static/js/2.96b10572.chunk.js": "/React_Finaluri/static/js/2.96b10572.chunk.js",
+    "static/js/2.96b10572.chunk.js.map": "/React_Finaluri/static/js/2.96b10572.chunk.js.map",
+    "static/js/3.e24e4eb1.chunk.js": "/React_Finaluri/static/js/3.e24e4eb1.chunk.js",
+    "static/js/3.e24e4eb1.chunk.js.map": "/React_Finaluri/static/js/3.e24e4eb1.chunk.js.map",
+    "index.html": "/React_Finaluri/index.html",
+    "static/css/main.d7b81cd7.chunk.css.map": "/React_Finaluri/static/css/main.d7b81cd7.chunk.css.map",
+    "static/js/2.96b10572.chunk.js.LICENSE.txt": "/React_Finaluri/static/js/2.96b10572.chunk.js.LICENSE.txt",
+    "static/media/Schindler.86039017.jpg": "/React_Finaluri/static/media/Schindler.86039017.jpg",
+    "static/media/blinders.3cb69ee3.jpg": "/React_Finaluri/static/media/blinders.3cb69ee3.jpg",
+    "static/media/lost.197c3b2e.jpg": "/React_Finaluri/static/media/lost.197c3b2e.jpg",
+    "static/media/mile.20e3ae17.jpg": "/React_Finaluri/static/media/mile.20e3ae17.jpg",
+    "static/media/shawshenk.1348905e.jpg": "/React_Finaluri/static/media/shawshenk.1348905e.jpg",
+    "static/media/titanic.624ed3f3.jpg": "/React_Finaluri/static/media/titanic.624ed3f3.jpg",
+    "static/media/zeg.b98be887.jpg": "/React_Finaluri/static/media/zeg.b98be887.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d74809d9.js",
+    "static/js/2.96b10572.chunk.js",
+    "static/css/main.d7b81cd7.chunk.css",
+    "static/js/main.e61091c4.chunk.js"
+  ]
+}
