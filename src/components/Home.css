@@ -1,0 +1,30 @@
+.pictures{
+    width: 300px;
+    height: 400px;
+}
+
+.wrapper{
+    margin: 55px;
+}
+
+.left{
+    float: left;
+    position: absolute;
+    top:55%;
+    left: 350px;
+    height: 50px;
+    width: 100px;
+    font-size: 40px;
+    background-color:skyblue;
+}
+
+.right{
+    float:right;
+    position: absolute;
+    top: 55%;
+    right: 350px;
+    width: 100px;
+    height: 50px;
+    font-size: 40px;
+    background-color: skyblue;
+}
